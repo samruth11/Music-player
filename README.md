@@ -1,2 +1,2 @@
 # Music player
-I created a Quiz app using HTML &amp; CSS
+I created a Music player using HTML &amp; CSS
